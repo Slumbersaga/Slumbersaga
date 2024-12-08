@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I'm Om Kumar, an Ai and meachine learning enginear
 - LinkedIn: [www.linkedin.com/in/omparihat](https://www.linkedin.com/in/yourprofile)
 
 ## 🔭 Projects
-- [Project 1](https:printingexpress.wuaze.com): Brief description of project 1.
+- [Project 1](www.printingexpress.wuaze.com): Brief description of project 1.
 - [Project 2](https://github.com/yourusername/project2): Brief description of project 2.
 
 ## 🌱 Currently Learning
