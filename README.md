@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I'm [Your Name], a [Your Profession] passionate about [Your Interests].
+Welcome to my GitHub profile! I'm Om Kumar, an Ai and meachine learning enginear passionate about research.
 
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -12,15 +12,15 @@ Welcome to my GitHub profile! I'm [Your Name], a [Your Profession] passionate ab
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- Email: [om.parihat@gmail.com](mailto:your.email@example.com)
+- LinkedIn: [www.linkedin.com/in/omparihat](https://www.linkedin.com/in/yourprofile)
 
 ## 🔭 Projects
-- [Project 1](https://github.com/yourusername/project1): Brief description of project 1.
+- [Project 1](printingexpress.wuaze.com): Brief description of project 1.
 - [Project 2](https://github.com/yourusername/project2): Brief description of project 2.
 
 ## 🌱 Currently Learning
-- [Technology/Skill]
+- Cyber Security, Meachine lerning, Deep learning
 
 ## ⚡ Fun Fact
-- Share an interesting fact about yourself or a fun fact related to your field.
+- never trust on yourself you can do more than you think
