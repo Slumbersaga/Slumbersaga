@@ -8,8 +8,6 @@ Welcome to my GitHub profile! I'm Om Kumar, an Ai and meachine learning enginear
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
 - Email: [om.parihat@gmail.com](mailto:your.email@example.com)
