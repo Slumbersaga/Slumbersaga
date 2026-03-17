@@ -8,11 +8,7 @@
   </a>
 </h1>
 
-<p align="center">
-  <samp>
-    About Me
-  </samp>
-</p>
+<h2 align="center">About Me</h2>
 
 <p align="center">
   <samp>
@@ -21,11 +17,7 @@
 </p>
 
 
-<p align="center">
-  <samp>
-    skills.language
-  </samp>
-</p>
+<h2 align="center">skills.language</h2>
 
 <p align="center">
   <samp>
@@ -39,9 +31,7 @@
   </samp>
 </p>
 
-<samp>
-  skills.tools
-</samp>
+<h3 align="center">skills.tools</h3>
 
 <p align="center">
   <samp>
