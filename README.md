@@ -43,10 +43,6 @@
 <br>
 
 <p align="center">
-  <img src="assets/contribution_gitview.png" width=""/>
-</p>
-
-<p align="center">
   <img src="assets/Ghostty.gif" width=""/>
 </p>
 
